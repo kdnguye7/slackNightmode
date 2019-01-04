@@ -3031,6 +3031,8 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus { color: #c
 
 .accordion_section { border-bottom-color: #222; }
 
+
+
 .accordion_section h4 { color: #e6e6e6; }
 
 .accordion_section h4 a { color: #e6e6e6; }
@@ -4064,3 +4066,5 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .para_menu a.trigger.pilcrow { filter: grayscale(2) brightness(1.8); }
 
 .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); }
+
+
